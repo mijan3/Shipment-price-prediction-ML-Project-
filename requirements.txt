@@ -17,3 +17,4 @@ dill
 evidently
 setuptools
 -e .
+#mongodb+srv://mijan:mijan123@cluster0.j7nmipu.mongodb.net/?appName=Cluster0

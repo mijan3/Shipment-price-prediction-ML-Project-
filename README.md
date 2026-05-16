@@ -18,3 +18,4 @@ Before you run this project,make sure you have MongoDB Atlas account and you hav
    conda activate shipment-price-prediction
    pip install -r requirements.txt
 ```
+
