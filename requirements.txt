@@ -4,7 +4,7 @@ fastapi
 uvicorn
 jinja2
 matplotlib
-pyYAML
+PyYAML
 scikit-learn
 seaborn
 pandas
